@@ -1,8 +1,8 @@
-db = {101:{'name':'Nayana','marks':88,'roll':101,'fees':20000},     # dummy record
-     102:{'name':'Ram','marks':78,'roll':102,'fees':25000},     # dummy record
-     103:{'name':'Sham','marks':68,'roll':103,'fees':15000},     # dummy record
-     104:{'name':'Rina','marks':89,'roll':104,'fees':18000},     # dummy record
-     105:{'name':'vaishu','marks':60,'roll':105,'fees':25000},     # dummy record
+db = {101:{'name':'Nayana','marks':88,'roll':101,'fees':20000},     
+     102:{'name':'Ram','marks':78,'roll':102,'fees':25000},    
+     103:{'name':'Sham','marks':68,'roll':103,'fees':15000},    
+     104:{'name':'Rina','marks':89,'roll':104,'fees':18000},
+     105:{'name':'vaishu','marks':60,'roll':105,'fees':25000},    
      105:{'name':'komal','marks':70,'roll':106,'fees':20000}
      }
 def dashboard():
